@@ -1,0 +1,5 @@
+#
+# Generated items
+#
+/dist/**
+!/dist/.gitkeep
