@@ -1,5 +1,7 @@
 # My TeX environments on Docker
 
+[![Deploy docker images](https://github.com/capra314cabra/docker-tex/actions/workflows/deploy.yml/badge.svg)](https://github.com/capra314cabra/docker-tex/actions/workflows/deploy.yml)
+
 This repository contains docker images which have been installed different packages.
 
 With it, you can start your tex life without thinking too much about what packages you have to install to launch. For professionals, you can select your environments according to your needs, such as writing a chemical paper, creating a booklet and compiling a graph.
