@@ -27,6 +27,10 @@ RUN \
     mv ./$(ls | grep -E "[0-9]+") ./latest; \
     tlmgr update --self --all; \
     #
+    # Install packages
+    #
+    echo "Do nothing. Yes. Do nothing."; \
+    #
     # Clean cache
     #
     apt-get clean; \
