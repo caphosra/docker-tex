@@ -2,7 +2,7 @@ FROM ubuntu:20.04
 
 ENV PATH $PATH:/usr/local/texlive/latest/bin/x86_64-linux
 
-COPY ./.latexmkrc ~/
+COPY .latexmkrc ~/
 
 RUN \
     #
