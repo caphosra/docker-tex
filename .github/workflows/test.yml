@@ -1,13 +1,13 @@
-name: Deploy docker images
+name: Test docker images
 
 on:
-  push:
-    tags:
-    - "v*"
+  pull_request:
+    branches:
+    - master
 
 jobs:
-  deploy:
-    name: Deploy capra314cabra/tex:${{ matrix.tag }}
+  test:
+    name: Test capra314cabra/tex:${{ matrix.tag }}
     runs-on: ubuntu-latest
 
     strategy:
@@ -41,4 +41,4 @@ jobs:
         with:
           context: ./dist/${{ matrix.tag }}
           tags: capra314cabra/tex:${{ matrix.tag }}
-          push: true
+          push: false
