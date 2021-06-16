@@ -1,10 +1,16 @@
 biber
 biblatex
+chemfig
 collection-langjapanese
+float
+here
 jsarticle
+latexmk
 mhchem
 pdflscape
 pdfpages
 platex
 ptex2pdf
+simplekv
 siunitx
+xcolor

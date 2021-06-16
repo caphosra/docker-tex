@@ -28,14 +28,20 @@ If you want to use another environment, please make a PR :)
 |:---|:---:|:---:|:---:|
 |biber|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |biblatex|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|chemfig||:heavy_check_mark:|:heavy_check_mark:|
 |collection-langjapanese|||:heavy_check_mark:|
+|float|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|here|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |jsarticle|||:heavy_check_mark:|
+|latexmk|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |mhchem||:heavy_check_mark:|:heavy_check_mark:|
 |pdflscape|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |pdfpages|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |platex|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ptex2pdf|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|simplekv||:heavy_check_mark:|:heavy_check_mark:|
 |siunitx||:heavy_check_mark:|:heavy_check_mark:|
+|xcolor|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 ## How to install
 

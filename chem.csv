@@ -1,8 +1,14 @@
 biber
 biblatex
+chemfig
+float
+here
+latexmk
 mhchem
 pdflscape
 pdfpages
 platex
 ptex2pdf
+simplekv
 siunitx
+xcolor
