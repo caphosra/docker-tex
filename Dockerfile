@@ -2,6 +2,8 @@ FROM ubuntu:20.04
 
 ENV PATH $PATH:/usr/local/texlive/latest/bin/x86_64-linux
 
+COPY ./.latexmkrc ~/
+
 RUN \
     #
     # Install dependencies
