@@ -1,6 +1,10 @@
 biber
 biblatex
+float
+here
+latexmk
 pdflscape
 pdfpages
 platex
 ptex2pdf
+xcolor
