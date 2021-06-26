@@ -5,4 +5,3 @@ $latex = 'platex -kanji=utf8 -synctex=1 -halt-on-error -interaction=nonstopmode 
 $makeindex = 'mendex %O -o %D %S';
 $max_repeat = 5;
 $pdf_mode = 3;
-$pdflatex = 'pdflatex -kanji=utf8 -synctex=1 -halt-on-error -interaction=nonstopmode %O %S';
